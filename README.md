@@ -1,6 +1,6 @@
 # stepik
 In this repository I will post some tasks from the stepik educational platform. Let's go!
-## Python :python:
+## Python
 ```python
 print('Hello world!')
 ```
