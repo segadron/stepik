@@ -1,6 +1,6 @@
 # stepik
 In this repository I will post some tasks from the stepik educational platform. Let's go!
-## Python ![pyticon](//proxy.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fcornmanthe3rd%2Fplex%2F512%2FOther-python-icon.png&f=1=100x100)
+## Python ![pyticon](//proxy.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fcornmanthe3rd%2Fplex%2F512%2FOther-python-icon.png&f=1 =100x100)
 ```python
 print('Hello world!')
 ```
