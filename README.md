@@ -1,7 +1,6 @@
 # stepik
 In this repository I will post some tasks from the stepik educational platform. Let's go!
-## Python ![pyticon](http://icons.iconarchive.com/icons/cornmanthe3rd/plex/24/Other-python-icon.png)
+## Python ![pyticon](http://icons.iconarchive.com/icons/cornmanthe3rd/plex/24/Other-python-icon.png)(https://www.python.org)
 ```python
 print('Hello world!')
 ```
-[![PythonPic](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.j-coders.com%2Fwp-content%2Fuploads%2F2017%2F08%2Fpython_icon.png&f=1/150x100)](https://www.python.org)
