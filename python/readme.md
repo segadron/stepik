@@ -45,3 +45,15 @@ ___
 ![first equation](https://tex.s2cms.ru/svg/S%3D%5Csqrt%7Bp(p-a)(p-b)(p-c)%7D)
 
 где ![second equation](https://tex.s2cms.ru/svg/p%3D%5Cdfrac%7Ba%2Bb%2Bc%7D2)– полупериметр треугольника. На вход программе подаются целые числа, выводом программы должно являться вещественное число, соответствующее площади треугольника.
+___
+**Sample Input:**
+
+3
+
+4
+
+5
+___
+**Sample Output:**
+
+6.0
